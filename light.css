@@ -1,0 +1,54 @@
+#forme
+
+{
+
+ 		width: 1200px;
+
+		margin:0 auto;
+
+		background-color: white;
+
+		text-align: left;
+
+		align-content: center;
+
+		text-indent: 25px;
+
+		 font-size: 20px;
+
+
+
+}
+#retour
+{
+	font-style: italic;
+	color : black;
+	font-weight: bolder;
+	margin: 0 00;
+	font-size: 20px;
+	text-align: left;
+	align-content: left;
+}
+
+	
+h1
+{
+	text-align: center;
+}
+ 
+body 
+{
+	background-color: blue ;
+}
+#video 
+{
+	text-align: center;
+	text-indent: 0px;  
+}
+
+
+ #audio 
+ {
+ 	text-align: center;
+ 	font-size: 17px;
+ }

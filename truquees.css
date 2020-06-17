@@ -1,0 +1,72 @@
+#forme
+
+{
+
+ 		width: 1200px;
+
+		margin:0 auto;
+
+		background-color: white;
+
+		text-align: left;
+
+		align-content: center;
+
+		text-indent: 25px;
+
+		 font-size: 20px;
+
+
+
+}
+
+
+
+#titre
+
+{
+
+ 		width: 800px;
+
+		margin:0 auto;
+
+		background-color: white;
+
+		text-align: center;
+
+		align-content: center;
+
+		color : dodgerblue;  
+
+}
+
+body 
+{
+	background-color: lime ;
+}
+
+
+#retour
+{
+	font-style: italic;
+	color : black;
+	font-weight: bolder;
+	margin: 0 00;
+	font-size: 20px;
+	text-align: left;
+
+	align-content: left;
+
+	
+	
+}
+h1 
+{
+	text-align: center;
+}
+
+
+#video 
+{
+	text-align: center;
+}

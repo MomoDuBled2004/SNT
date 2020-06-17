@@ -1,0 +1,87 @@
+#forme
+
+{
+
+ 		width: 1200px;
+
+		margin:0 auto;
+
+		background-color: white;
+
+		text-align: left;
+
+		align-content: center;
+
+		text-indent: 25px;
+
+		 font-size: 25px;
+
+
+
+}
+
+
+
+#titre
+
+{
+
+ 		width: 800px;
+
+		margin:0 auto;
+
+		background-color: white;
+
+		text-align: center;
+
+		align-content: center;
+
+		color : black;  
+
+		font-size: 35px
+
+}
+
+body 
+{
+	background-color: paleturquoise ;
+}
+
+#copyright
+{
+	
+	color : black;
+	margin: 0 00;
+	font-size: 15px;
+	text-align: right;
+
+	align-content: right;
+
+	
+	
+}
+
+#Classe
+{
+	text-align: center
+}
+
+#pro
+{
+	text-align: center;
+}
+
+#Nb
+{
+	
+	color : black;
+	margin: 0 00;
+	font-size: 15px;
+	text-align: left;
+
+	align-content: left;
+
+	
+	
+}	
+ 
